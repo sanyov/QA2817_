@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "userId": 32,
+      "firstName": "Алексей",
+      "lastName": "Голобурдин",
+      "address": {
+        "country": "Россия",
+        "city": "Москва"
+      },
+      "phone": "8 (905) 777 77 77"
+    },
+    {
+      "userId": 33,
+      "firstName": "Гендальф",
+      "address": {
+        "country": "Средиземье",
+        "city": "Валинор"
+      }
+    }
+  ]
+}

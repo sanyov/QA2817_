@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: [7]
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.101 s <<< FAILURE! - in [7]
+FibonacciTest[0](by.itstep.junit.FibonacciTest)  Time elapsed: 0.041 s  <<< ERROR!
+java.lang.StackOverflowError
+

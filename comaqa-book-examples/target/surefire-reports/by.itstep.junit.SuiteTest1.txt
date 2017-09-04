@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: by.itstep.junit.SuiteTest1
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 1, Time elapsed: 1.013 s <<< FAILURE! - in by.itstep.junit.SuiteTest1
+runForever(by.itstep.junit.SuiteTest1)  Time elapsed: 1.005 s  <<< ERROR!
+org.junit.runners.model.TestTimedOutException: test timed out after 1000 milliseconds
+	at by.itstep.junit.SuiteTest1.runForever(SuiteTest1.java:30)
+

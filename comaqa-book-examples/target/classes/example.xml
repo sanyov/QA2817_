@@ -1,0 +1,21 @@
+<users>
+    <user>
+        <userId>32</userId>
+        <firstName>Алексей</firstName>
+        <lastName>Голобурдин</lastName>
+        <phone>8 (905) 777 77 77</phone>
+        <address>
+            <country>Россия</country>
+            <city>Москва</city>
+        </address>
+    </user>
+
+    <user>
+        <userId>33</userId>
+        <firstName>Гендальф</firstName>
+        <address>
+            <country>Средиземье</country>
+            <city>Валинор</city>
+        </address>
+    </user>
+</users>
